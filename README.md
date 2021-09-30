@@ -56,7 +56,7 @@ I select variables and metrics to present dashboard. They are not random value o
     <td>Total population</td>
     <td>(World Bank, 2020)</td>
   </tr>
-    <tr>
+  <tr>
     <td>GDP per capita</td>
     <td>Gross Domestic Product per capita in current $US</td>
     <td>(World Bank, 2020)</td>
@@ -66,9 +66,24 @@ I select variables and metrics to present dashboard. They are not random value o
     <td>Total population</td>
     <td>(World Bank, 2020)</td>
   </tr>
-    <tr>
+  <tr>
     <td>Health expenditure per capita</td>
     <td>National Health expenditure per capita in current $US</td>
+    <td>(World Bank, 2020)</td>
+  </tr>
+  <tr>
+    <td>Hospital beds (per 1000)</td>
+    <td>The number of hospital beds per 1000 population</td>
+    <td>(World Bank, 2020)</td>
+  </tr>
+    <tr>
+    <td>Physicians (per 1000)</td>
+    <td>The number of physicians per 1000 population</td>
+    <td>(World Bank, 2020)</td>
+  </tr>
+  <tr>
+    <td>Average temperature (Celsius)</td>
+    <td>The average annually temperature</td>
     <td>(World Bank, 2020)</td>
   </tr>
 </table>
