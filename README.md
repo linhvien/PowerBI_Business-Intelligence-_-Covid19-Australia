@@ -194,3 +194,7 @@ Australia government should adopt measures to support and protect older groups a
 The authorities needs to focus on investing in health and health services to better prevent epidemics. Along with great investment in healthcare, the number of health workers available in a country is a key indicator of that country's capacity to provide delivery and interventions. The ideal number of physicians per 1000 should be four or five. There is still too little research data on whether COVID 19 pathogenicity related to the weather temperature; however, most countries with a high prevalence of COVID-19 typically have an average temperature above 15 degrees. COVID-19 could be less flexible at low temperatures, so it is less likely to spread in cold countries. Therefore, countries with high temperatures and humidity like Australia should adopt more stringent prevention measures. The weather changes with the seasons, I expect cold weather to slow down the spread of a pandemic.
 
 In sum, BI dashboards provide updated data related to COVID-19 situation in global and in Australia specifically. It emphasises factors which could have correlation with COVID-19 infection. There are several recommendations which are derived from BI dashboard.
+
+
+### © 2021 linhvientran
+
